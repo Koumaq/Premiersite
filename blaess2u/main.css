@@ -1,0 +1,43 @@
+body {
+			width: Auto;
+			margin: auto;
+			background-color:  #46ACC0;
+}
+table{		
+			border-collapse: separate;
+			border-spacing: 10px;
+}
+td{
+			border: solid black;
+			border-color: #273746;
+			background-color: silver ;
+			}
+ul{
+			list-style-type: none;
+}
+.center {
+			margin-left: auto;
+			margin-right: auto;
+}
+.fond{
+			background-color: #A8CFDE;
+			border: solid black;
+			
+}
+.droite {
+			float:right;
+}
+.arrondieM {
+			-moz-border-radius:40px;
+			-webkit-border-radius:40px;
+			border-radius:40px;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+}
+.arrondieD {
+			-moz-border-radius:40px;
+			-webkit-border-radius:40px;
+			border-radius:40px;
+			float:right;
+}
